@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+torch==2.5.1
+torchaudio
+pocket-tts
